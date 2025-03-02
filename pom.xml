@@ -16,28 +16,28 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-core</artifactId>
-            <version>4.0.0.RELEASE</version>
+            <version>6.1.14</version>
         </dependency>
 
         <!-- Outdated Jackson -->
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
             <artifactId>jackson-databind</artifactId>
-            <version>2.3.0</version>
+            <version>2.15.0</version>
         </dependency>
 
         <!-- Outdated Apache Commons -->
         <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
-            <version>1.4</version>
+            <version>2.7</version>
         </dependency>
 
         <!-- Outdated MySQL Connector -->
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>5.1.6</version>
+            <version>8.0.28</version>
         </dependency>
     </dependencies>
 
